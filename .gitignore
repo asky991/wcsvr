@@ -1,0 +1,6 @@
+
+*.cmake
+*.tlog
+*.obj
+*.check_cache
+*.rule
