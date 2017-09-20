@@ -4,3 +4,7 @@
 *.obj
 *.check_cache
 *.rule
+wcserver/src/build/.vs/wcsvrd/v14/.suo
+wcserver/src/build/wcsvrd.VC.db
+wcserver/src/build/wcsvrd.VC.VC.opendb
+wcserver/src/build/Win32/Debug/ALL_BUILD/ALL_BUILD.vcxprojResolveAssemblyReference.cache
