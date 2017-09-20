@@ -8,3 +8,7 @@ wcserver/src/build/.vs/wcsvrd/v14/.suo
 wcserver/src/build/wcsvrd.VC.db
 wcserver/src/build/wcsvrd.VC.VC.opendb
 wcserver/src/build/Win32/Debug/ALL_BUILD/ALL_BUILD.vcxprojResolveAssemblyReference.cache
+wcserver/src/build/wcsvrd.dir/Debug/vc140.pdb
+wcserver/src/build/wcsvrd.dir/Debug/version.res
+wcserver/src/build/wcsvrd.dir/Debug/wcsvrd.log
+wcserver/src/build/Win32/Debug/ZERO_CHECK/ZERO_CHECK.log
